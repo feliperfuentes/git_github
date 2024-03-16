@@ -1,0 +1,1 @@
+Esta linha foi escrita antes do primeiro commit
